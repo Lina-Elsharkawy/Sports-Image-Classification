@@ -1,5 +1,5 @@
-# 🏀🏏 Sports Image Classification using CNN 🧠📸  
-*A Deep Learning project that teaches a CNN to spot the difference between football and fencing.*
+# Sports Image Classification using CNN
+*A Deep Learning project that teaches a CNN to spot the difference between different sports.*
 
 ---
 
